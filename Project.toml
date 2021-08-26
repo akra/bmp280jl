@@ -1,0 +1,8 @@
+name = "bmp280"
+uuid = "5a2c8ef5-1685-4033-ab1c-13e1ef4316f7"
+authors = ["maik.paetzold@akra.de"]
+version = "0.1.0"
+
+[deps]
+BaremetalPi = "3a90a9a9-52f9-452b-94bd-193d585bd84f"
+StructIO = "53d494c1-5632-5724-8f4c-31dff12d585f"
